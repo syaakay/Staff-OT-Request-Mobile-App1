@@ -18,7 +18,7 @@ A mobile application for managing and submitting overtime work requests digitall
 * State Management: StreamBuilder
 
  ## Screenshot
- <img width="200" height="200" alt="Screenshot_1775745282" src="https://github.com/user-attachments/assets/1312ec03-5297-4579-9344-ab46721e4ceb" />
+ <img width="500" height="500" alt="Screenshot_1775745282" src="https://github.com/user-attachments/assets/1312ec03-5297-4579-9344-ab46721e4ceb" />
 
 <p align="center">
   <img src="screenshots/main_screen.png" width="200">
