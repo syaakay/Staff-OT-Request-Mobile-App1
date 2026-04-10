@@ -1,16 +1,24 @@
-# test_app
+# Staff Overtime Request Mobile App
+A mobile application for managing and submitting overtime work requests digitally.
 
-A new Flutter project.
+# Main Features:
 
-## Getting Started
+* Firebase Authentication: Secure login using email and password.
+* Real-time Request: OT (Overtime) requests are submitted and updated in real-time using Cloud Firestore.
+* Status Tracking: Staff can view the history of their requests (Pending, Approved, or Rejected). Supervisor can view the active overtime requests of staf for 7 day.
+* Form Submission: Input overtime request details such as name, email, date&time, reason, supervisor name, and supervisor email.
+* Push Notifications: Notifies supervisor when overtime requested have been submitted by staff.
 
-This project is a starting point for a Flutter application.
+# Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+* Frontend: Flutter (Dart)
+* Backend/Database: Firebase Cloud Firestore
+* Authentication: Firebase Auth
+* IDE: Android Studio & VS Code
+* State Management: StreamBuilder
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Screenshot
+<p align="center">
+  <img src="screenshots/main_screen.png" width="200">
+  <img src="screenshots/demo.gif" width="200">
+</p> 
