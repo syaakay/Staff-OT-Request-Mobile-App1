@@ -18,8 +18,8 @@ A mobile application for managing and submitting overtime work requests digitall
 * State Management: StreamBuilder
 
 # Screenshot
- * <img width="250" height="450" alt="Screenshot_1775792400" src="https://github.com/user-attachments/assets/96d42b36-a0fe-4f7a-afa8-e1ea52e9f728" />    * <img width="250" height="450" alt="Screenshot_1775792486" src="https://github.com/user-attachments/assets/2bce266e-b46f-4cc2-9473-8e7c6006d7cb" />                    
- * <img width="250" height="450" alt="Screenshot_1775792486" src="https://github.com/user-attachments/assets/2bce266e-b46f-4cc2-9473-8e7c6006d7cb" />
+ * <img width="250" height="450" alt="Screenshot_1775792400" src="https://github.com/user-attachments/assets/96d42b36-a0fe-4f7a-afa8-e1ea52e9f728" />    * <img width="250" height="450" alt="Screenshot_1775792486" src="https://github.com/user-attachments/assets/2bce266e-b46f-4cc2-9473-8e7c6006d7cb" />  * <img width="250" height="450" alt="Screenshot_1775792478" src="https://github.com/user-attachments/assets/c2efc167-287d-4b3e-95df-ccffba878cb4" />                  
+
  * <img width="250" height="450" alt="Screenshot_1775792478" src="https://github.com/user-attachments/assets/c2efc167-287d-4b3e-95df-ccffba878cb4" />
  * <img width="250" height="450" alt="Screenshot_1775745282" src="https://github.com/user-attachments/assets/3b270af6-df57-43a3-950e-070cd669cf56" />
  * <img width="250" height="450" alt="Screenshot_1775792581" src="https://github.com/user-attachments/assets/595a951e-bbdc-4a83-aba2-153f88e4d675" />
